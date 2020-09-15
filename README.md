@@ -1,4 +1,4 @@
-# Hi there, i'm Jean-Baptiste, aka as @Z3R0xLEGEND ! <img src="https://i.ibb.co/R9zFMp1/Handshake-Gif.gif" alt="Handshake" width = "30" height = "30">
+# Hi there, i'm Jean-Baptiste, aka [Z3R0xLEGEND][https://www.youtube.com/channel/UCZPposkdBEckARsusz6zbRA] ! <img src="https://i.ibb.co/R9zFMp1/Handshake-Gif.gif" alt="Handshake" width = "30" height = "30">
 <img align = "right" alt = "Coding Right Thumbnail" width = "300" src = "https://i.ibb.co/PCKTr5q/Coding-Gif.gif">
 <br/>
 
